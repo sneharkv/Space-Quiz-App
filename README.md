@@ -26,7 +26,7 @@ event listeners, and dynamic content rendering.
 2. Open `index.html` in your browser
 3. That's it!
 
-##Credits
+## Credits
 Reference from: https://www.youtube.com/@freecodecamp
 
 
