@@ -19,6 +19,11 @@ event listeners, and dynamic content rendering.
 
 <img width="600" height="393" alt="image" src="https://github.com/user-attachments/assets/7ad15b95-3b94-48f7-9c59-c792000dd645" />
 
+##  How To Run Locally
+1. Clone the repository
+2. Open `index.html` in your browser
+3. That's it!
+
 
 
 
