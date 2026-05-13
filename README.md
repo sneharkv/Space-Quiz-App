@@ -5,6 +5,8 @@ To practice and strengthen my JavaScript fundamentals by building
 a real interactive project from scratch, including DOM manipulation, 
 event listeners, and dynamic content rendering.
 
+
+
 ## Languages used
 1.Html
 
@@ -23,6 +25,12 @@ event listeners, and dynamic content rendering.
 1. Clone the repository
 2. Open `index.html` in your browser
 3. That's it!
+
+##Credits
+Reference from: https://www.youtube.com/@freecodecamp
+
+
+
 
 
 
