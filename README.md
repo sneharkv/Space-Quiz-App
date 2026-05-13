@@ -13,8 +13,11 @@ event listeners, and dynamic content rendering.
 3.JavaScript
 
 ## Preview
+1.Start Screen:
 <img width="600" height="402" alt="image" src="https://github.com/user-attachments/assets/171edd8c-efee-4efd-b20c-117019bd323c" />
+2.Question Screen:
 <img width="600" height="517" alt="image" src="https://github.com/user-attachments/assets/8c0d5cc0-4177-4b52-b5d2-4cbb901ec40b" />
+3.Result Screen:
 <img width="600" height="393" alt="image" src="https://github.com/user-attachments/assets/7ad15b95-3b94-48f7-9c59-c792000dd645" />
 
 
