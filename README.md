@@ -6,9 +6,9 @@ a real interactive project from scratch, including DOM manipulation,
 event listeners, and dynamic content rendering.
 
 ## Languages used
-Html
-Css
-JavaScript
+1.Html
+2.Css
+3.JavaScript
 
 
 
