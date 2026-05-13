@@ -164,15 +164,15 @@ function showResults(){
     const percentage = (score/quizQuestions.length)*100
 
 if (percentage === 100) {
-    resultMessage.textContent = "Perfect! You're a true Space Commander! 🚀";
+    resultMessage.textContent = "Perfect! You're a true Space Commander! ";
 } else if (percentage >= 80) {
-    resultMessage.textContent = "Great job! You're an Astronaut in training! 🌟";
+    resultMessage.textContent = "Great job! You're an Astronaut in training! ";
 } else if (percentage >= 60) {
-    resultMessage.textContent = "Not bad! You know your way around the galaxy! 🪐";
+    resultMessage.textContent = "Not bad! You know your way around the galaxy! ";
 } else if (percentage >= 40) {
-    resultMessage.textContent = "Keep exploring! The universe has more to teach you! 🌌";
+    resultMessage.textContent = "Keep exploring! The universe has more to teach you! ";
 } else {
-    resultMessage.textContent = "Houston, we have a problem! Try again! 😄";
+    resultMessage.textContent = "Houston, we have a problem! Try again! ";
 }
 }
 
